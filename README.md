@@ -42,11 +42,11 @@ Para colunas categóricas (como editoras), os valores nulos foram substituídos 
 ```text
 "Não informado".
 ##
-
-### Justificativa:
+```
+### Os valores nulos em colunas de vendas foram substituídos por 0 (zero).:
 
 As colunas representam volume de vendas (em milhões de unidades)
-#Os valores nulos em colunas de vendas foram substituídos por 0 (zero).
+
 Um valor nulo, nesse contexto, indica ausência de registro de vendas naquela região
 
 Substituir por zero evita distorções em agregações (soma, média)
