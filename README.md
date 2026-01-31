@@ -41,7 +41,6 @@ Para colunas categóricas (como editoras), os valores nulos foram substituídos 
 
 ```text
 "Não informado".
-##
 ```
 ### Os valores nulos em colunas de vendas foram substituídos por 0 (zero).:
 
